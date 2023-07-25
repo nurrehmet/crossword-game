@@ -1,0 +1,162 @@
+{
+    "across": {
+      "1": {
+        "clue": "Key part of software quality",
+        "answer": "SOFTWAREMAINTENANCE",
+        "row": 1,
+        "col": 1
+      },
+      "2": {
+        "clue": "Who coined the term 'bug'",
+        "answer": "GRACEHOPPER",
+        "row": 3,
+        "col": 4
+      },
+      "3": {
+        "clue": "American who invented C++",
+        "answer": "BJARNESTROUSTRUP",
+        "row": 5,
+        "col": 4
+      },
+      "5": {
+        "clue": "Studies the design, execution, and analysis of algorithms",
+        "answer": "COMPUTERSCIENCE",
+        "row": 7,
+        "col": 4
+      },
+      "7": {
+        "clue": "Domain-specific language examples",
+        "answer": "YAMLHTMLCSS",
+        "row": 9,
+        "col": 3
+      },
+      "8": {
+        "clue": "Founder of the Free Software Foundation",
+        "answer": "RICHARDSTALLMAN",
+        "row": 12,
+        "col": 4
+      },
+      "12": {
+        "clue": "The C in CSS",
+        "answer": "CASCADE",
+        "row": 14,
+        "col": 3
+      },
+      "14": {
+        "clue": "Sequences of characters in Python",
+        "answer": "STRINGS",
+        "row": 17,
+        "col": 1
+      },
+      "16": {
+        "clue": "The data type boolean can take the values",
+        "answer": "TRUEFALSE",
+        "row": 19,
+        "col": 1
+      },
+      "21": {
+        "clue": "Also known as main memory",
+        "answer": "RAM",
+        "row": 10,
+        "col": 17
+      },
+      "22": {
+        "clue": "Programming language named after a British mathematician",
+        "answer": "ADA",
+        "row": 17,
+        "col": 13
+      },
+      "23": {
+        "clue": "Pre-eminent web standards body",
+        "answer": "WC",
+        "row": 14,
+        "col": 17
+      },
+      "24": {
+        "clue": "A major programming language beginning with P",
+        "answer": "PEARL",
+        "row": 19,
+        "col": 14
+      },
+      "25": {
+        "clue": "Programming language developed at Bell Labs",
+        "answer": "AWK",
+        "row": 16,
+        "col": 17
+      }
+    },
+    "down": {
+      "1": {
+        "clue": "Basis of machine learning",
+        "answer": "STATISTICALMODELS",
+        "row": 1,
+        "col": 1
+      },
+      "4": {
+        "clue": "Executable file format in Windows",
+        "answer": "EXE",
+        "row": 1,
+        "col": 8
+      },
+      "6": {
+        "clue": "IPO stands for in system analysis",
+        "answer": "INPUTPROCESSOUTPUT",
+        "row": 1,
+        "col": 11
+      },
+      "9": {
+        "clue": "World Wide Web inventor",
+        "answer": "TIMBERNERSLEE",
+        "row": 7,
+        "col": 9
+      },
+      "10": {
+        "clue": "The R in CRUD",
+        "answer": "READ",
+        "row": 12,
+        "col": 4
+      },
+      "11": {
+        "clue": "Editing command in UNIX",
+        "answer": "VI",
+        "row": 11,
+        "col": 5
+      },
+      "13": {
+        "clue": "Artificial general intelligence is also known as",
+        "answer": "AGI",
+        "row": 1,
+        "col": 16
+      },
+      "15": {
+        "clue": "C language is close to",
+        "answer": "ASSEMBLYLANGUAGE",
+        "row": 4,
+        "col": 15
+      },
+      "17": {
+        "clue": "Used to style web documents",
+        "answer": "CSS",
+        "row": 7,
+        "col": 13
+      },
+      "18": {
+        "clue": "Dedicated device for network traffic control",
+        "answer": "ROUTER",
+        "row": 3,
+        "col": 18
+      },
+      "19": {
+        "clue": "Front-end JS framework developed by Google",
+        "answer": "ANGULAR",
+        "row": 12,
+        "col": 13
+      },
+      "20": {
+        "clue": "Visual web content editor",
+        "answer": "DREAMWEAVER",
+        "row": 9,
+        "col": 17
+      }
+    }
+  }
